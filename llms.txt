@@ -1,0 +1,96 @@
+# APStack
+
+> A curated, hand-checked directory of 76 AP (Advanced Placement) study resources: videos, practice question banks, flashcards, notes, calculators, and AI tools, organized by category and AP course. Free options are listed first. Independent; not affiliated with College Board.
+
+## Pages
+- [Home / all resources](https://kobe813.github.io/apstack/)
+- [Official College Board](https://kobe813.github.io/apstack/c/official/)
+- [Video lessons](https://kobe813.github.io/apstack/c/video/)
+- [Practice & question banks](https://kobe813.github.io/apstack/c/practice/)
+- [Notes & textbooks](https://kobe813.github.io/apstack/c/notes/)
+- [Flashcards](https://kobe813.github.io/apstack/c/flashcards/)
+- [Calculators & sims](https://kobe813.github.io/apstack/c/tools/)
+- [Writing & research](https://kobe813.github.io/apstack/c/writing/)
+- [AI study tools](https://kobe813.github.io/apstack/c/ai/)
+- [Focus & planning](https://kobe813.github.io/apstack/c/focus/)
+- [Community](https://kobe813.github.io/apstack/c/community/)
+- [Sponsor](https://kobe813.github.io/apstack/sponsor/): sponsor tiers $99, $249, $499 per month
+- [Submit a resource](https://kobe813.github.io/apstack/submit/)
+
+## Resources
+- [AP Students (College Board)](https://apstudents.collegeboard.org/): Official course pages, exam dates, and past free-response questions with scoring guidelines. Courses: All. Price: Free.
+- [AP Central Past Exam Questions](https://apcentral.collegeboard.org/courses): Teacher-side course hub with released FRQs, scoring guidelines, and sample responses. Courses: All. Price: Free.
+- [AP Classroom](https://myap.collegeboard.org/): Topic questions, progress checks, and Daily Videos your teacher unlocks. Courses: All. Price: Free.
+- [Khan Academy AP](https://www.khanacademy.org/college-careers-more/ap-courses): Free full AP courses with videos and practice for many subjects. Courses: All. Price: Free.
+- [Crash Course](https://thecrashcourse.com/): Fast, well-edited video series covering World, US history, bio, chem and more. Courses: History, Science. Price: Free.
+- [Heimler's History](https://www.heimlershistory.com/): Unit-by-unit AP history videos tied to the College Board framework. Courses: APUSH, World, Euro. Price: Free + paid.
+- [Flipping Physics](https://www.flippingphysics.com/): Clear AP Physics lessons and review videos organized by topic. Courses: Physics 1, Physics C. Price: Free.
+- [The Organic Chemistry Tutor (YouTube)](https://www.youtube.com/@TheOrganicChemistryTutor): Huge library of worked problems for math and science. Courses: Calc, Physics, Chem. Price: Free.
+- [Bozeman Science](https://www.bozemanscience.com/): Classic AP Bio and Chem concept videos. Courses: Bio, Chem, Physics. Price: Free.
+- [Jacob Clifford (ACDC Econ)](https://www.acdcecon.com/): AP Econ review videos and the Ultimate Review Packet. Courses: Macro, Micro. Price: Free + paid.
+- [Professor Dave Explains](https://www.youtube.com/@ProfessorDaveExplains): Short concept explainers across the sciences. Courses: Bio, Chem, Physics. Price: Free.
+- [3Blue1Brown](https://www.3blue1brown.com/): Visual intuition for calculus and linear algebra. Courses: Calc. Price: Free.
+- [Fiveable](https://fiveable.me/): Study guides, cram sessions, and practice for every AP course. Courses: All. Price: Free + paid.
+- [Albert](https://www.albert.io/): Large AP practice-question bank with explanations. Courses: All. Price: Paid (school).
+- [UWorld College Prep](https://collegeprep.uworld.com/ap/): Exam-style AP question banks with detailed explanations. Courses: Many. Price: Paid.
+- [Aim for Five](https://aimforfive.com/): Unit guides, flashcards, and full practice exams with no account needed. Courses: 29 courses. Price: Free.
+- [OnePrep AP](https://www.oneprep.com/ap/lessons): Free lessons, question bank, and an AP score calculator. Courses: 15 courses. Price: Free.
+- [AP Scholr](https://apscholr.com/ap): Unit notes, quizzes, and FRQ practice with rubric grading. Courses: All 39. Price: Free.
+- [SuperAP](https://superap.org/guides): Unit-by-unit AP study guides. Courses: 9 courses. Price: Free.
+- [Knowt](https://knowt.com/): Flashcards and AP exam guides; imports Quizlet sets. Courses: All. Price: Free + paid.
+- [Quizlet](https://quizlet.com/): Flashcard sets for nearly every AP unit. Courses: All. Price: Free + paid.
+- [Anki](https://apps.ankiweb.net/): Spaced-repetition flashcards. Best for vocab and dates. Courses: All. Price: Free.
+- [RemNote](https://www.remnote.com/): Notes that turn into spaced-repetition cards. Courses: All. Price: Free + paid.
+- [Gimkit](https://www.gimkit.com/): Game-style review your class can play. Courses: All. Price: Free + paid.
+- [Desmos](https://www.desmos.com/calculator): Graphing calculator; great for checking calc answers. Courses: Calc, Precalc, Stats, Physics. Price: Free.
+- [Wolfram|Alpha](https://www.wolframalpha.com/): Step-by-step math and science computation. Courses: Calc, Physics, Chem. Price: Free + paid.
+- [Symbolab](https://www.symbolab.com/): Step-by-step derivative and integral solver. Courses: Calc, Precalc. Price: Free + paid.
+- [GeoGebra](https://www.geogebra.org/): Interactive graphs and geometry. Courses: Calc, Precalc. Price: Free.
+- [PhET Simulations](https://phet.colorado.edu/): University of Colorado interactive science sims. Courses: Physics, Chem. Price: Free.
+- [The Physics Classroom](https://www.physicsclassroom.com/): Tutorials, concept builders, and practice on every Physics 1 topic. Courses: Physics 1. Price: Free.
+- [Paul's Online Math Notes](https://tutorial.math.lamar.edu/): Free calculus notes with worked examples. Courses: Calc AB/BC. Price: Free.
+- [Stats Medic](https://www.statsmedic.com/): AP Stats lessons and exam review. Courses: Stats. Price: Free + paid.
+- [StatQuest](https://statquest.org/): Plain-English stats explanations. Courses: Stats. Price: Free.
+- [CodeHS](https://codehs.com/): AP CS courses and practice in the browser. Courses: CS A, CSP. Price: Free + paid.
+- [CodingBat](https://codingbat.com/java): Java warm-up problems that match AP CS A style. Courses: CS A. Price: Free.
+- [Runestone Academy CSAwesome](https://runestone.academy/ns/books/published/csawesome/index.html): Free interactive AP CS A textbook. Courses: CS A. Price: Free.
+- [Code.org CSP](https://code.org/en-US/curriculum/computer-science-principles): Endorsed AP CSP curriculum. Courses: CSP. Price: Free.
+- [OpenStax](https://openstax.org/subjects): Free peer-reviewed textbooks, several AP editions. Courses: Bio, Chem, Physics, Econ, Psych. Price: Free.
+- [CK-12](https://www.ck12.org/): Free textbooks and practice. Courses: Science, Math. Price: Free.
+- [Chemistry LibreTexts](https://chem.libretexts.org/): Open chemistry library for deep dives. Courses: Chem. Price: Free.
+- [Ptable](https://ptable.com/): Interactive periodic table with properties. Courses: Chem. Price: Free.
+- [Biology Corner](https://www.biologycorner.com/): Bio worksheets, labs, and reviews. Courses: Bio. Price: Free.
+- [Learn-Biology (Mr. W)](https://learn-biology.com/): AP Bio tutorials and quizzes. Courses: Bio. Price: Free + paid.
+- [APUSH Review (Adam Norris)](https://www.apushreview.com/): Period-by-period APUSH reviews. Courses: APUSH. Price: Free.
+- [Oyez](https://www.oyez.org/): Summaries and audio for every required Supreme Court case. Courses: Gov. Price: Free.
+- [iCivics](https://www.icivics.org/): Civics games and readings. Courses: Gov. Price: Free.
+- [National Archives DocsTeach](https://www.docsteach.org/): Primary-source activities from the National Archives. Courses: APUSH, Gov. Price: Free.
+- [Marginal Revolution University](https://mru.org/): Free econ videos and practice. Courses: Macro, Micro. Price: Free.
+- [Federal Reserve Education](https://www.federalreserveeducation.org/): Official monetary-policy explainers. Courses: Macro. Price: Free.
+- [Purdue OWL](https://owl.purdue.edu/): Writing, grammar, and citation reference. Courses: Lang, Lit, history essays. Price: Free.
+- [LitCharts](https://www.litcharts.com/): Theme and quote guides for AP Lit novels and poems. Courses: Lit. Price: Free + paid.
+- [SparkNotes](https://www.sparknotes.com/): Book summaries and analysis. Courses: Lit. Price: Free + paid.
+- [Poetry Foundation](https://www.poetryfoundation.org/): Full poems and glossary of poetic terms. Courses: Lit. Price: Free.
+- [Project Gutenberg](https://www.gutenberg.org/): Free public-domain novels often on AP Lit lists. Courses: Lit. Price: Free.
+- [Hemingway Editor](https://hemingwayapp.com/): Highlights wordy and hard sentences. Courses: Lang, Lit. Price: Free + paid.
+- [Grammarly](https://www.grammarly.com/): Grammar and clarity checks. Courses: Lang, Lit. Price: Free + paid.
+- [Zotero](https://www.zotero.org/): Free citation and source manager. Courses: Seminar, Research. Price: Free.
+- [Google Scholar](https://scholar.google.com/): Search academic papers for AP Research. Courses: Seminar, Research. Price: Free.
+- [Simply Psychology](https://www.simplypsychology.org/): Clear summaries of psych studies and theories. Courses: Psych. Price: Free.
+- [APA Psychology Topics](https://www.apa.org/topics): Official American Psychological Association topic pages. Courses: Psych. Price: Free.
+- [Population Education](https://populationeducation.org/): Population and demography resources. Courses: Human Geo, APES. Price: Free.
+- [Gapminder](https://www.gapminder.org/tools/): Interactive world data charts. Courses: Human Geo, APES, Macro. Price: Free.
+- [NASA Climate](https://science.nasa.gov/climate-change/): Climate evidence and data from NASA. Courses: APES. Price: Free.
+- [Duolingo](https://www.duolingo.com/): Daily language practice. Courses: Spanish, French, etc.. Price: Free + paid.
+- [SpanishDict](https://www.spanishdict.com/): Dictionary, conjugations, and grammar guides. Courses: Spanish. Price: Free.
+- [Smarthistory](https://smarthistory.org/): Videos and essays on the AP Art History image set. Courses: Art History. Price: Free.
+- [musictheory.net](https://www.musictheory.net/): Lessons and ear-training exercises. Courses: Music Theory. Price: Free.
+- [NotebookLM](https://notebooklm.google.com/): Upload your own notes and get quizzes and summaries grounded in them. Courses: All. Price: Free.
+- [Perplexity](https://www.perplexity.ai/): Answer engine with cited sources. Courses: All. Price: Free + paid.
+- [Photomath](https://photomath.com/): Snap a problem, see the steps. Courses: Calc, Precalc. Price: Free + paid.
+- [Mathpix Snip](https://mathpix.com/): Turns handwritten math into LaTeX. Courses: Calc, Physics. Price: Free + paid.
+- [Forest](https://www.forestapp.cc/): Focus timer that grows trees while you study. Courses: All. Price: Paid.
+- [Notion](https://www.notion.so/): Notes and study planner templates. Courses: All. Price: Free + paid.
+- [Pomofocus](https://pomofocus.io/): Simple online Pomodoro timer. Courses: All. Price: Free.
+- [r/APStudents](https://www.reddit.com/r/APStudents/): The biggest AP student community; exam-day threads and tips. Courses: All. Price: Free.
+- [Princeton Review AP](https://www.princetonreview.com/college/ap-test-prep): Prep books, courses, and tutoring. Courses: Many. Price: Paid.
